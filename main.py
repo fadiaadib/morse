@@ -20,7 +20,7 @@ def main():
             morse.show()
             morse.play()
     else:
-        print('Goodbye!')
+        print('Goodbye!!')
 
 
 if __name__ == '__main__':
